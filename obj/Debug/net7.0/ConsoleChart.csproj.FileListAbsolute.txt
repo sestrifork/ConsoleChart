@@ -1,0 +1,15 @@
+/Users/ses/ownCloud/code/cs/ConsoleChart/bin/Debug/net7.0/ConsoleChart
+/Users/ses/ownCloud/code/cs/ConsoleChart/bin/Debug/net7.0/ConsoleChart.deps.json
+/Users/ses/ownCloud/code/cs/ConsoleChart/bin/Debug/net7.0/ConsoleChart.runtimeconfig.json
+/Users/ses/ownCloud/code/cs/ConsoleChart/bin/Debug/net7.0/ConsoleChart.dll
+/Users/ses/ownCloud/code/cs/ConsoleChart/bin/Debug/net7.0/ConsoleChart.pdb
+/Users/ses/ownCloud/code/cs/ConsoleChart/obj/Debug/net7.0/ConsoleChart.csproj.AssemblyReference.cache
+/Users/ses/ownCloud/code/cs/ConsoleChart/obj/Debug/net7.0/ConsoleChart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ses/ownCloud/code/cs/ConsoleChart/obj/Debug/net7.0/ConsoleChart.AssemblyInfoInputs.cache
+/Users/ses/ownCloud/code/cs/ConsoleChart/obj/Debug/net7.0/ConsoleChart.AssemblyInfo.cs
+/Users/ses/ownCloud/code/cs/ConsoleChart/obj/Debug/net7.0/ConsoleChart.csproj.CoreCompileInputs.cache
+/Users/ses/ownCloud/code/cs/ConsoleChart/obj/Debug/net7.0/ConsoleChart.dll
+/Users/ses/ownCloud/code/cs/ConsoleChart/obj/Debug/net7.0/refint/ConsoleChart.dll
+/Users/ses/ownCloud/code/cs/ConsoleChart/obj/Debug/net7.0/ConsoleChart.pdb
+/Users/ses/ownCloud/code/cs/ConsoleChart/obj/Debug/net7.0/ConsoleChart.genruntimeconfig.cache
+/Users/ses/ownCloud/code/cs/ConsoleChart/obj/Debug/net7.0/ref/ConsoleChart.dll
